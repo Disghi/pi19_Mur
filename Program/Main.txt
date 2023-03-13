@@ -1,2 +1,6 @@
-#UseFromHelp
-#UseFromGeneration
+/**
+ * Эта функция запускает программу.
+ * 
+ * @return void
+ */
+public function StartProgram() {}
