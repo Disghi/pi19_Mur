@@ -25,7 +25,3 @@ public function ShowAlgorithm()
  * @return string Возвращает текст примера формулы.
  */ 
 public function ShowFormula()
-
-
-#CreateHelp
-#UseHelp
