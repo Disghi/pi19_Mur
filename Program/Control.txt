@@ -1,4 +1,30 @@
-#ChangeScale
-#ChangeIterations
-#Save
-#ClearAll
+/**
+ * Эта функция изменяет масштаб экрана.
+ * 
+ * @param int $Scale Текущий масштаб.
+ * @return int
+ */
+public function ChangeScale($Scale) {}
+
+/**
+ * Эта функция изменяет координаты экрана.
+ * 
+ * @param Array[] $Position Текущие координаты.
+ * @return Array[]
+ */
+public function ChangePosition($Position) {}
+
+/**
+ * Эта функция изменяет количество итераций.
+ * 
+ * @param int $Iterations Текущее количество итераций.
+ * @return int
+ */
+public function ChangeIterations($Iterations) {}
+
+/**
+ * Эта функция очищает все данные.
+ * 
+ * @return void
+ */
+public function ClearAll() {}
