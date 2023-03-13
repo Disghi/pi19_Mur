@@ -1,49 +1,41 @@
 /**
  * Фрактал.
- * 
  * Класс описывает значения, которые пользователь выберет при настройке.
- * 
  */ 
 class Fractal
 { 
 	/** 
 	 * Номер алгоритма генерации.
-	 * 
 	 * @var int 
 	 */
 	public Algorithm
 
 	/** 
 	 * Координата х.
-	 * 
 	 * @var float
 	 */
 	public StartX
 
 	/** 
 	 * Координата y.
-	 * 
 	 * @var float
 	 */
 	public StartY
 
 	/** 
 	 * Количество итераций.
-	 * 
 	 * @var int
 	 */
 	public Iteration
 
 	/** 
 	 * Цвет.
-	 * 
 	 * @var string
 	 */
 	public Color
 
 	/** 
 	 * Формула фигуры.
-	 * 
 	 * @var string
 	 */
 	public Shape
