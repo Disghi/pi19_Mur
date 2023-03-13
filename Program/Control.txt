@@ -1,3 +1,4 @@
 #ChangeScale
 #ChangeIterations
 #Save
+#ClearAll
