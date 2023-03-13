@@ -1,2 +1,64 @@
-#CreateGeneration
-#UseGeneration
+/**
+ * Фрактал.
+ * 
+ * Класс описывает значения, которые пользователь выберет при настройке.
+ * 
+ */ 
+class Fractal
+{ 
+	/** 
+	 * Номер алгоритма генерации.
+	 * 
+	 * @var int 
+	 */
+	public Algorithm
+
+	/** 
+	 * Координата х.
+	 * 
+	 * @var float
+	 */
+	public StartX
+
+	/** 
+	 * Координата y.
+	 * 
+	 * @var float
+	 */
+	public StartY
+
+	/** 
+	 * Количество итераций.
+	 * 
+	 * @var int
+	 */
+	public Iteration
+
+	/** 
+	 * Цвет.
+	 * 
+	 * @var string
+	 */
+	public Color
+
+	/** 
+	 * Формула фигуры.
+	 * 
+	 * @var string
+	 */
+	public Shape
+
+    	/**
+    	 * Этот метод задает проверку фигуры.
+    	 * @param string $text формула фигуры.
+    	 * @return bool
+    	 */
+	public function CheckShape($Shape)
+	{
+		if ($Shape is exists)
+			return 0
+		else
+			return 1
+	}
+}
+
