@@ -1,5 +1,11 @@
-#choice
-#calculation
-#re
-#Check
-#UseCreate
+/**
+ * Эта функция строит фигуру по выбранным данным.
+ * 
+ * @param int $Shape формула фигуры.
+ * @param float $StartX Стартовая координата Х.
+ * @param float $StartY Стартовая координаат Y.
+ * @param string $Color Цвет фигуры.
+ * @param int $Count Количество итераций.
+ * @return void
+ */
+public function CreateShape($Shape, $StartX, $StartY, $Color, $Count) {}
