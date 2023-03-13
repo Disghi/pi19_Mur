@@ -1,2 +1,31 @@
+/**
+ * Показать управление.
+ * 
+ * @return string Возвращает текст управления.
+ */ 
+public function ShowControl()
+
+/**
+ * Показать описание настроек.
+ * 
+ * @return string Возвращает текст описания настроек.
+ */ 
+public function ShowSettings()
+
+/**
+ * Показать описание алгоритма.
+ * 
+ * @return string Возвращает текст описания алгоритма.
+ */ 
+public function ShowAlgorithm()
+
+/**
+ * Показать пример формулы
+ * 
+ * @return string Возвращает текст примера формулы.
+ */ 
+public function ShowFormula()
+
+
 #CreateHelp
 #UseHelp
