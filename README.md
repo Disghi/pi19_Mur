@@ -1,3 +1,7 @@
 # pi19_Mur
 
-Program created as tool for Fractals generation
+A W E S O M E
+
+s t r a n g e
+
+m-o-d-i-f-i-c
