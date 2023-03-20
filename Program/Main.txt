@@ -4,3 +4,17 @@
  * @return void
  */
 public function StartProgram() {}
+
+/**
+ * Эта функция инициализирует элементы управления.
+ * 
+ * @return void
+ */
+private function InitControls() {}
+
+/**
+ * Эта функция инициализирует переменные.
+ * 
+ * @return void
+ */
+private function InitVars() {}
